@@ -232,17 +232,6 @@ Some features that can be added in the future:
 * 🔔 Notifications
 * ⭐ Bookmark Posts
 
-## 📸 Screenshots
-
-Add your project screenshots here:
-
-```md
-![Home Page](screenshots/home.png)
-
-![Blog Post](screenshots/post.png)
-
-![Create Post](screenshots/create-post.png)
-```
 
 ## 🤝 Contributing
 
